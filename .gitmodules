@@ -1,0 +1,9 @@
+[submodule "PowerInk-Client"]
+	path = PowerInk-Client
+	url = https://github.com/Kwanhooo/PowerInk-Client
+[submodule "PowerInk-Server"]
+	path = PowerInk-Server
+	url = https://github.com/Kwanhooo/PowerInk-Server
+[submodule "PowerInk-UI"]
+	path = PowerInk-UI
+	url = https://github.com/Kwanhooo/PowerInk-UI
